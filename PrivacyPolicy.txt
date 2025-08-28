@@ -1,0 +1,1 @@
+This app does not collect, store, or share any personal information. All data, including part lists and building progress, is stored locally on the user’s device and never transmitted to any server.
