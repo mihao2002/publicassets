@@ -1,0 +1,939 @@
+{
+  "shock-06_5l-soft-1.ldr": {
+    "id": "731c05",
+    "description": "Technic, Shock Absorber 6.5L with Black Piston Rod - Normal Spring"
+  },
+  "-temp73.ldr": {
+    "id": "62520c01",
+    "description": "Technic, Universal Joint 3L"
+  },
+  "-temp74.ldr": {
+    "id": "62520c01",
+    "description": "Technic, Universal Joint 3L"
+  },
+  "32054.dat": {
+    "id": "32054",
+    "description": "Technic Pin Long with Stop Bush"
+  },
+  "61184.dat": {
+    "id": "61184",
+    "description": "Technic Pin  1/2 with Bar 2L"
+  },
+  "4519.dat": {
+    "id": "4519",
+    "description": "Technic Axle  3"
+  },
+  "32269.dat": {
+    "id": "32269",
+    "description": "Technic Gear 20 Tooth Double Bevel"
+  },
+  "11214.dat": {
+    "id": "11214",
+    "description": "Technic Axle Pin Long with Friction with  2L Pin"
+  },
+  "60483.dat": {
+    "id": "60483",
+    "description": "Technic Beam  2 Liftarm"
+  },
+  "43093.dat": {
+    "id": "43093",
+    "description": "Technic Axle Pin with Friction"
+  },
+  "32526.dat": {
+    "id": "32526",
+    "description": "Technic Beam  3 x  5 Bent 90"
+  },
+  "2780.dat": {
+    "id": "2780",
+    "description": "Technic Pin with Friction and Slots"
+  },
+  "87083.dat": {
+    "id": "87083",
+    "description": "Technic Axle  4 with Stop"
+  },
+  "46372.dat": {
+    "id": "46372",
+    "description": "Technic Gear 28 Tooth Double Bevel"
+  },
+  "77765.dat": {
+    "id": "77765",
+    "description": "Technic Pin Long with End Stop"
+  },
+  "32009.dat": {
+    "id": "32009",
+    "description": "Technic Beam  3 x  3.8 x  7 Liftarm Bent 45 Double"
+  },
+  "2391.dat": {
+    "id": "2391",
+    "description": "Technic Beam  7 with Alternating Holes"
+  },
+  "23799.dat": {
+    "id": "23799",
+    "description": "Tyre 44/ 22 x 62 ZR"
+  },
+  "68577.dat": {
+    "id": "68577",
+    "description": "Wheel Rim 42 x 62 with 20 Spokes and  3 Pins"
+  },
+  "71708.dat": {
+    "id": "71708",
+    "description": "Technic Beam  2 x  3 Liftarm Bent 90 Quarter Ellipse"
+  },
+  "6558.dat": {
+    "id": "6558",
+    "description": "Technic Pin Long with Friction and Slot"
+  },
+  "11478.dat": {
+    "id": "11478",
+    "description": "Technic Beam  5 x  0.5 Liftarm with Axle Holes at Both Ends"
+  },
+  "22961.dat": {
+    "id": "22961",
+    "description": "Technic Axle with Perpendicular Pin Hole"
+  },
+  "48989.dat": {
+    "id": "48989",
+    "description": "Technic Cross Block 1 x 3 (Pin/Pin/Pin) with 4 Pins"
+  },
+  "32140.dat": {
+    "id": "32140",
+    "description": "Technic Beam  2 x  4 Liftarm Bent 90"
+  },
+  "32524.dat": {
+    "id": "32524",
+    "description": "Technic Beam  7"
+  },
+  "44294.dat": {
+    "id": "44294",
+    "description": "Technic Axle  7"
+  },
+  "41678.dat": {
+    "id": "41678",
+    "description": "Technic Cross Block 2 x 2 Split (Axle/Twin Pin)"
+  },
+  "32039.dat": {
+    "id": "32039",
+    "description": "Technic Connector (Axle/Bush) Type 1"
+  },
+  "60485.dat": {
+    "id": "60485",
+    "description": "Technic Axle  9"
+  },
+  "3713.dat": {
+    "id": "3713",
+    "description": "Technic Bush with Two Flanges"
+  },
+  "94925.dat": {
+    "id": "94925",
+    "description": "Technic Gear 16 Tooth Reinforced"
+  },
+  "15462.dat": {
+    "id": "15462",
+    "description": "Technic Axle  5 with Stop"
+  },
+  "39793.dat": {
+    "id": "39793",
+    "description": "Technic Connector Block  3 x  3 with  9 Perpendicular Holes"
+  },
+  "87082.dat": {
+    "id": "87082",
+    "description": "Technic Pin Long with Pin Hole Type 1"
+  },
+  "15100.dat": {
+    "id": "15100",
+    "description": "Technic Pin with Friction with Perpendicular Pin Hole Type 1"
+  },
+  "32184.dat": {
+    "id": "32184",
+    "description": "Technic Cross Block 1 x 3 (Axle/Pin/Axle)"
+  },
+  "99008.dat": {
+    "id": "99008",
+    "description": "Technic Axle  4 with Middle Cylindrical Stop"
+  },
+  "32291.dat": {
+    "id": "32291",
+    "description": "Technic Cross Block 2 x 2 (Axle/Twin Pin)"
+  },
+  "3648b.dat": {
+    "id": "3648",
+    "description": "Technic Gear 24 Tooth with Single Axle Hole"
+  },
+  "89678.dat": {
+    "id": "89678",
+    "description": "Technic Pin  1/2 with Friction"
+  },
+  "43857.dat": {
+    "id": "43857",
+    "description": "Technic Beam  2"
+  },
+  "10928.dat": {
+    "id": "10928",
+    "description": "Technic Gear  8 Tooth Reinforced"
+  },
+  "32209.dat": {
+    "id": "32209",
+    "description": "Technic Axle  5.5 with Stop"
+  },
+  "32316.dat": {
+    "id": "32316",
+    "description": "Technic Beam  5"
+  },
+  "44809.dat": {
+    "id": "44809",
+    "description": "Technic Cross Block 2 x 2 Bent 90 (Pin/Pin/Pin)"
+  },
+  "26287.dat": {
+    "id": "26287",
+    "description": "Technic Axle Joiner  3L"
+  },
+  "3706.dat": {
+    "id": "3706",
+    "description": "Technic Axle  6"
+  },
+  "6536.dat": {
+    "id": "6536",
+    "description": "Technic Cross Block 1 x 2 (Axle/Pin)"
+  },
+  "6542b.dat": {
+    "id": "6542b",
+    "description": "Technic Gear 16 Tooth with Clutch Smooth"
+  },
+  "59443.dat": {
+    "id": "6538c",
+    "description": "Technic Axle Joiner Inline Smooth"
+  },
+  "6539.dat": {
+    "id": "6539",
+    "description": "Technic Transmission Driving Ring"
+  },
+  "32123a.dat": {
+    "id": "4265c",
+    "description": "Technic Bush  1/2 Smooth with Axle Hole Reduced"
+  },
+  "35188.dat": {
+    "id": "35188",
+    "description": "Technic Changeover Rotary Catch"
+  },
+  "65249.dat": {
+    "id": "65249",
+    "description": "Technic Axle Pin Long without Friction with 2L Axle"
+  },
+  "32270.dat": {
+    "id": "32270",
+    "description": "Technic Gear 12 Tooth Double Bevel"
+  },
+  "2477.dat": {
+    "id": "2477",
+    "description": "Technic Beam  3 x  5 Bent 90 with Alternating Holes"
+  },
+  "6587.dat": {
+    "id": "6587",
+    "description": "Technic Axle  3 with Stud"
+  },
+  "41677.dat": {
+    "id": "41677",
+    "description": "Technic Beam  2 x  0.5 Liftarm"
+  },
+  "6628.dat": {
+    "id": "6628a",
+    "description": "Technic Pin Towball with Friction"
+  },
+  "6632.dat": {
+    "id": "6632",
+    "description": "Technic Beam  3 x  0.5 Liftarm"
+  },
+  "63869.dat": {
+    "id": "63869",
+    "description": "Technic Cross Block 3 x 2 (Axle/Triple Pin)"
+  },
+  "55013.dat": {
+    "id": "55013",
+    "description": "Technic Axle  8 with Stop"
+  },
+  "3749.dat": {
+    "id": "3749",
+    "description": "Technic Axle Pin"
+  },
+  "32034.dat": {
+    "id": "32034",
+    "description": "Technic Angle Connector #2 (180 degree)"
+  },
+  "42003.dat": {
+    "id": "42003",
+    "description": "Technic Cross Block 1 x 3 (Axle/Pin/Pin)"
+  },
+  "18946.dat": {
+    "id": "18946",
+    "description": "Technic Gear 16 Tooth with Clutch on Both Sides"
+  },
+  "18947.dat": {
+    "id": "18947",
+    "description": "Technic Transmission Driving Ring  3L"
+  },
+  "27940.dat": {
+    "id": "27940",
+    "description": "Technic Axle  3L with Middle Perpendicular Pin Hole"
+  },
+  "24316.dat": {
+    "id": "24316",
+    "description": "Technic Axle  3 with Stop"
+  },
+  "35185.dat": {
+    "id": "35185",
+    "description": "Technic Gear 20 Tooth Double Bevel with Clutch on Both Sides"
+  },
+  "3707.dat": {
+    "id": "3707",
+    "description": "Technic Axle  8"
+  },
+  "32072.dat": {
+    "id": "32072",
+    "description": "Technic Gear  4 Knob"
+  },
+  "2393.dat": {
+    "id": "2393",
+    "description": "Technic Cross Block  1 x  3 (Pin/Pin/Pin) with  2 Pins"
+  },
+  "32523.dat": {
+    "id": "32523",
+    "description": "Technic Beam  3"
+  },
+  "18654.dat": {
+    "id": "18654",
+    "description": "Technic Beam  1"
+  },
+  "59426.dat": {
+    "id": "32209",
+    "description": "Technic Axle  5.5 with Stop Type 2"
+  },
+  "32062.dat": {
+    "id": "32062",
+    "description": "Technic Axle  2 Notched"
+  },
+  "3705.dat": {
+    "id": "3705",
+    "description": "Technic Axle  4"
+  },
+  "32013.dat": {
+    "id": "32013",
+    "description": "Technic Angle Connector #1"
+  },
+  "32073.dat": {
+    "id": "32073",
+    "description": "Technic Axle  5"
+  },
+  "32278.dat": {
+    "id": "32278",
+    "description": "Technic Beam 15"
+  },
+  "18651.dat": {
+    "id": "18651",
+    "description": "Technic Axle Pin Long with Friction with  2L Axle"
+  },
+  "60484.dat": {
+    "id": "60484",
+    "description": "Technic Beam  3 x  3 T-shaped"
+  },
+  "32123b.dat": {
+    "id": "4265c",
+    "description": "Technic Bush 1/2 Smooth with Axle Hole Semi-Reduced"
+  },
+  "99773.dat": {
+    "id": "99773",
+    "description": "Technic Beam  5 x  3 x  0.5 Liftarm Triangle Type 2"
+  },
+  "5713.dat": {
+    "id": "5713",
+    "description": "Technic Axle  3L with Perpendicular Pin Hole"
+  },
+  "32449.dat": {
+    "id": "32449",
+    "description": "Technic Beam  4 x  0.5 Liftarm"
+  },
+  "48496.dat": {
+    "id": "48496",
+    "description": "Technic Connector Toggle Joint Smooth Double with 2 Pins"
+  },
+  "6589.dat": {
+    "id": "6589",
+    "description": "Technic Gear 12 Tooth Bevel"
+  },
+  "5405.dat": {
+    "id": "5405",
+    "description": "Technic Gear  4 Knob 45°"
+  },
+  "33299a.dat": {
+    "id": "33299",
+    "description": "Technic Beam  3 x  0.5 Liftarm with Boss and Pin with Closed Central Axle Hole"
+  },
+  "32271.dat": {
+    "id": "32271",
+    "description": "Technic Beam  3 x  7 Liftarm Bent 53.13"
+  },
+  "40490.dat": {
+    "id": "40490",
+    "description": "Technic Beam  9"
+  },
+  "64781.dat": {
+    "id": "64781",
+    "description": "Technic Gear Rack  1 x 13 with Pegholes and Axleholes"
+  },
+  "2471.dat": {
+    "id": "2471",
+    "description": "Technic Gear 24 Tooth with Clutch on Both Sides"
+  },
+  "76019.dat": {
+    "id": "60c01",
+    "description": "Technic Gear 24 Tooth Clutch with Dark Grey Centre"
+  },
+  "6629.dat": {
+    "id": "6629",
+    "description": "Technic Beam  4 x  6 Liftarm Bent 53.13"
+  },
+  "11455.dat": {
+    "id": "11455",
+    "description": "Technic Link  2 x  4 Bent 90 with One Offset Transverse Peghole"
+  },
+  "4274.dat": {
+    "id": "4274",
+    "description": "Technic Pin  1/2"
+  },
+  "2739a.dat": {
+    "id": "2739",
+    "description": "Technic Steering Link  6L Type 1"
+  },
+  "62462.dat": {
+    "id": "62462",
+    "description": "Technic Pin Joiner Round with Slot"
+  },
+  "4459.dat": {
+    "id": "4459",
+    "description": "Technic Pin with Friction"
+  },
+  "87086.dat": {
+    "id": "87086",
+    "description": "Technic Panel Fairing Smooth #2 (Short)"
+  },
+  "3167.dat": {
+    "id": "3167",
+    "description": "Technic Beam  2 x  3 C-shaped"
+  },
+  "92907.dat": {
+    "id": "92907",
+    "description": "Technic Cross Block  2 x  2 x  2 Bent 90 Split (Pin/Twin Axle)"
+  },
+  "3020.dat": {
+    "id": "3020",
+    "description": "Plate  2 x  4"
+  },
+  "3023b.dat": {
+    "id": "3023",
+    "description": "Plate  1 x  2"
+  },
+  "63864.dat": {
+    "id": "63864",
+    "description": "Tile  1 x  3"
+  },
+  "4162.dat": {
+    "id": "4162",
+    "description": "Tile  1 x  8"
+  },
+  "15068.dat": {
+    "id": "15068",
+    "description": "Slope Brick Curved  2 x  2 x  0.667"
+  },
+  "5095.dat": {
+    "description": "Slope Curved  2 x  2 x  0.667 with Stud Notch Left"
+  },
+  "11477.dat": {
+    "id": "11477",
+    "description": "Slope Brick Curved  2 x  1"
+  },
+  "5093.dat": {
+    "description": "Slope Curved  2 x  2 x  0.667 with Stud Notch Right"
+  },
+  "73507.dat": {
+    "id": "73507",
+    "description": "Technic Beam 11 with Alternating Holes"
+  },
+  "41239.dat": {
+    "id": "41239",
+    "description": "Technic Beam 13"
+  },
+  "23948.dat": {
+    "id": "23948",
+    "description": "Technic Axle 11"
+  },
+  "11946.dat": {
+    "id": "11946",
+    "description": "Technic Panel Fairing Smooth #21 (Thin Short)"
+  },
+  "11947.dat": {
+    "id": "11947",
+    "description": "Technic Panel Fairing Smooth #22 (Thin Short)"
+  },
+  "18944.dat": {
+    "id": "18944",
+    "description": "Technic Panel  3 x 13 Curved"
+  },
+  "68196.dat": {
+    "id": "68196",
+    "description": "Technic Panel  5 x 13 Curved #51 Tapered Right"
+  },
+  "32056.dat": {
+    "id": "32056",
+    "description": "Technic Beam  3 x  3 x  0.5 Liftarm Bent 90"
+  },
+  "41669.dat": {
+    "id": "x346",
+    "description": "Technic Tooth  1 x  3 with Axlehole with Rounded Bottom Cavity"
+  },
+  "67142.dat": {
+    "id": "67142",
+    "description": "Technic Panel  5 x 13 Curved #50 Tapered Left"
+  },
+  "55615.dat": {
+    "id": "55615",
+    "description": "Technic Pin Connector Perpendicular  3 x  3 Bent 90 with 4 Pins, Slots Along Beam"
+  },
+  "69819.dat": {
+    "id": "69819",
+    "description": "Technic Cross Block  2 x  2 Split Reinforced (Axle/Twin Pin)"
+  },
+  "3673.dat": {
+    "id": "3673",
+    "description": "Technic Pin"
+  },
+  "32230.dat": {
+    "id": "32230",
+    "description": "Znap Beam Curved  2 Holes"
+  },
+  "32212.dat": {
+    "id": "32212",
+    "description": "Znap Connector  1 x  3 -  2 Way Axial"
+  },
+  "61408.dat": {
+    "id": "61408",
+    "description": "=Technic Beam  3 x  0.5 Liftarm with Boss and Pin with Open Central Axle Hole"
+  },
+  "2825.dat": {
+    "id": "2825",
+    "description": "Technic Beam  4 x  0.5 Liftarm with Boss"
+  },
+  "71682.dat": {
+    "id": "71682",
+    "description": "Technic Panel Curved  3 x  2 x  1"
+  },
+  "89679.dat": {
+    "id": "89679",
+    "description": "Technic Panel Curved  1 x  2 x  1"
+  },
+  "32015.dat": {
+    "id": "32015",
+    "description": "Technic Angle Connector #5 (112.5 degree)"
+  },
+  "3022.dat": {
+    "id": "3022",
+    "description": "Plate  2 x  2"
+  },
+  "3024.dat": {
+    "id": "3024",
+    "description": "Plate  1 x  1"
+  },
+  "3710.dat": {
+    "id": "3710",
+    "description": "Plate  1 x  4"
+  },
+  "73230.dat": {
+    "id": "73230",
+    "description": "Technic Brick  1 x  1 with Axlehole"
+  },
+  "3623.dat": {
+    "id": "3623",
+    "description": "Plate  1 x  3"
+  },
+  "92946.dat": {
+    "id": "92946",
+    "description": "Slope Plate 45.73  2 x  1"
+  },
+  "11458.dat": {
+    "id": "11458",
+    "description": "Plate  1 x  2 with Offset Peghole"
+  },
+  "2431.dat": {
+    "id": "2431",
+    "description": "Tile  1 x  4 with Groove"
+  },
+  "32016.dat": {
+    "id": "32016",
+    "description": "Technic Angle Connector #3 (157.5 degree)"
+  },
+  "24119.dat": {
+    "id": "24119",
+    "description": "Technic Panel Smooth  7 x  2 x  3"
+  },
+  "10197.dat": {
+    "id": "10197",
+    "description": "Technic Axle and Pin Connector Hub with 2 Axles at 90 Degrees"
+  },
+  "32017.dat": {
+    "id": "32017",
+    "description": "Technic Beam  5 x  0.5"
+  },
+  "32187.dat": {
+    "id": "32187",
+    "description": "Technic Transmission Driving Ring Extension"
+  },
+  "80286.dat": {
+    "id": "80286",
+    "description": "Technic Beam  2 x  5 Liftarm Bent 90 Quarter Ellipse"
+  },
+  "64394.dat": {
+    "id": "64394",
+    "description": "Technic Panel Fairing Smooth #13 (Wide Medium)"
+  },
+  "64682.dat": {
+    "id": "64682",
+    "description": "Technic Panel Fairing Smooth #18 (Wide Long)"
+  },
+  "39790.dat": {
+    "id": "39790",
+    "description": "Technic Beam 15 x 11 with Open Center 13 x  9"
+  },
+  "71710.dat": {
+    "id": "71710",
+    "description": "Technic Beam 15 with Alternating Holes"
+  },
+  "32063.dat": {
+    "id": "32063",
+    "description": "Technic Beam  6 x  0.5"
+  },
+  "52730.dat": {
+    "id": "52730",
+    "description": "Technic Steering Constant Velocity 8mm Joint Female"
+  },
+  "52731.dat": {
+    "id": "52731",
+    "description": "Technic Steering Constant Velocity 8mm Joint Male"
+  },
+  "32494.dat": {
+    "id": "32494",
+    "description": "Technic Wheel Spindle Axle Driver"
+  },
+  "32556.dat": {
+    "id": "32556",
+    "description": "Technic Pin Long"
+  },
+  "76537.dat": {
+    "id": "731c04",
+    "description": "Technic Shock Absorber  6.5L Extra Stiff (Complete)"
+  },
+  "4716.dat": {
+    "id": "4716",
+    "description": "Technic Worm Gear 2L"
+  },
+  "32250.dat": {
+    "id": "32250",
+    "description": "Technic Beam  3 x  5 x  0.5 Liftarm Bent 90 Quarter Ellipse"
+  },
+  "98138.dat": {
+    "id": "98138",
+    "description": "Tile  1 x  1 Round with Groove"
+  },
+  "2852.dat": {
+    "id": "2852",
+    "description": "Technic Engine Connecting Rod"
+  },
+  "2851.dat": {
+    "id": "2851",
+    "description": "Technic Engine Piston Round"
+  },
+  "2853.dat": {
+    "id": "2853",
+    "description": "Technic Engine Crankshaft"
+  },
+  "2854.dat": {
+    "id": "2854",
+    "description": "Technic Engine Crankshaft Centre"
+  },
+  "32333.dat": {
+    "id": "32333",
+    "description": "Technic Brick  5 x  3 x  1 with  8 Pegholes and  2 Studs"
+  },
+  "32525.dat": {
+    "id": "32525",
+    "description": "Technic Beam 11"
+  },
+  "2387.dat": {
+    "id": "2387",
+    "description": "Technic Panel Fairing Smooth #7 (Thin Very Short)"
+  },
+  "2741.dat": {
+    "id": "2741",
+    "description": "Technic Steering Wheel Large"
+  },
+  "32126.dat": {
+    "id": "44",
+    "description": "Technic Connector Toggle Joint Smooth"
+  },
+  "32557.dat": {
+    "id": "32557",
+    "description": "Technic Cross Block 2 x 3 (Pin/Pin/Twin Pin)"
+  },
+  "32065.dat": {
+    "id": "32065",
+    "description": "Technic Beam  7 x  0.5"
+  },
+  "32002.dat": {
+    "id": "32002",
+    "description": "Technic Pin  3/4"
+  },
+  "15458.dat": {
+    "id": "15458",
+    "description": "Technic Panel  3 x 11"
+  },
+  "71709.dat": {
+    "id": "71709",
+    "description": "Technic Panel  3 x  7"
+  },
+  "64782.dat": {
+    "id": "64782",
+    "description": "Technic Panel  5 x 11"
+  },
+  "64179.dat": {
+    "id": "64179",
+    "description": "Technic Beam  7 x  5 with Open Center  5 x  3"
+  },
+  "69762.dat": {
+    "id": "69762",
+    "description": "Technic Gear 14 Tooth Bevel"
+  },
+  "11949.dat": {
+    "id": "11949",
+    "description": "Technic Steering Wheel Bearing w/ 2 Pegholes & 2 Ball Joint Arms"
+  },
+  "35189.dat": {
+    "id": "35189",
+    "description": "Technic Steering Wheel Hub with Brake Disc and  3 Pegholes"
+  },
+  "57515.dat": {
+    "id": "57515",
+    "description": "Technic Suspension Arm  2 x  6"
+  },
+  "39794.dat": {
+    "id": "39794",
+    "description": "Technic Beam 11 x  7 with Open Center  9 x  5"
+  },
+  "27938.dat": {
+    "id": "27938",
+    "description": "Technic Worm Gear 1L"
+  },
+  "32192.dat": {
+    "id": "32192",
+    "description": "Technic Angle Connector #4 (135 degree)"
+  },
+  "64393.dat": {
+    "id": "64393",
+    "description": "Technic Panel Fairing Smooth #6 (Long)"
+  },
+  "99009.dat": {
+    "id": "99009",
+    "description": "Technic Turntable 28 Tooth Bottom"
+  },
+  "99010.dat": {
+    "id": "99010",
+    "description": "Technic Turntable 28 Tooth Top"
+  },
+  "25214.dat": {
+    "id": "25214",
+    "description": "Cylinder  2 x  2 Elbow with Axle Holes"
+  },
+  "80274.dat": {
+    "id": "80274",
+    "description": "Technic Panel Fairing Smooth Right #62 (Wide Medium Triangle)"
+  },
+  "64680.dat": {
+    "id": "64680",
+    "description": "Technic Panel Fairing Smooth #14 (Wide Medium)"
+  },
+  "6553.dat": {
+    "id": "6553",
+    "description": "Technic Connector (Axle) with Axle 1.5"
+  },
+  "87080.dat": {
+    "id": "87080",
+    "description": "Technic Panel Fairing Smooth #1 (Short)"
+  },
+  "64681.dat": {
+    "id": "64681",
+    "description": "Technic Panel Fairing Smooth #5 (Long)"
+  },
+  "80278.dat": {
+    "id": "80278",
+    "description": "Technic Panel Fairing Smooth Left #63 (Wide Medium Triangle)"
+  },
+  "6141.dat": {
+    "id": "4073",
+    "description": "Plate  1 x  1 Round"
+  },
+  "4443.dat": {
+    "id": "4443",
+    "description": "Technic Panel  5 x 13 Curved #54 Tapered Sloped Left"
+  },
+  "2403.dat": {
+    "id": "2403",
+    "description": "Technic Panel Fairing Smooth #10 (Medium Triangle)"
+  },
+  "2389.dat": {
+    "id": "2389",
+    "description": "Technic Panel Fairing Smooth #8 (Thin Very Short)"
+  },
+  "69911.dat": {
+    "id": "69911",
+    "description": "Technic Panel 13 x  2 x  5 Mudguard Arched with Rounded Top"
+  },
+  "4446.dat": {
+    "id": "4446",
+    "description": "Technic Panel  5 x 13 Curved #55 Tapered Sloped Right"
+  },
+  "2395.dat": {
+    "id": "2395",
+    "description": "Technic Panel Fairing Smooth #9 (Medium Triangle)"
+  },
+  "80268.dat": {
+    "id": "80268",
+    "description": "Technic Panel Fairing Smooth Right #60 (Wide Medium Parallelogram)"
+  },
+  "80267.dat": {
+    "id": "80267",
+    "description": "Technic Panel Fairing Smooth Left #61 (Wide Medium Parallelogram)"
+  },
+  "24116.dat": {
+    "id": "24116",
+    "description": "Technic Panel Bent  4 x  5 x  3"
+  },
+  "62531.dat": {
+    "id": "62531",
+    "description": "Technic Panel Smooth 11 x  2 x  3"
+  },
+  "64683.dat": {
+    "id": "64683",
+    "description": "Technic Panel Fairing Smooth #3 (Medium)"
+  },
+  "64391.dat": {
+    "id": "64391",
+    "description": "Technic Panel Fairing Smooth #4 (Medium)"
+  },
+  "71689.dat": {
+    "id": "71689",
+    "description": "Technic Panel 13 x  2 x  5 Mudguard Arched Extension"
+  },
+  "32348.dat": {
+    "id": "32348",
+    "description": "Technic Beam  4 x  4 Liftarm Bent 53.13"
+  },
+  "4527.dat": {
+    "id": "4527",
+    "description": "Technic Panel  3 x 13 Curved #52 Tapered Left"
+  },
+  "32014.dat": {
+    "id": "32014",
+    "description": "Technic Angle Connector #6 (90 degree)"
+  },
+  "32000.dat": {
+    "id": "32000",
+    "description": "Technic Brick  1 x  2 with Holes"
+  },
+  "6541.dat": {
+    "id": "6541",
+    "description": "Technic Brick  1 x  1 with Hole"
+  },
+  "3004.dat": {
+    "id": "3004",
+    "description": "Brick  1 x  2"
+  },
+  "3005.dat": {
+    "id": "3005",
+    "description": "Brick  1 x  1"
+  },
+  "11153.dat": {
+    "id": "61678",
+    "description": "=Slope Brick Curved  4 x  1"
+  },
+  "5426.dat": {
+    "id": "5426",
+    "description": "Technic Panel  3 x 13 Curved #53 Tapered Right"
+  },
+  "4255.dat": {
+    "id": "732",
+    "description": "~Technic Shock Absorber  6.5L Cylinder"
+  },
+  "4254.dat": {
+    "description": "~Technic Shock Absorber  6.5L Piston Rod"
+  },
+  "64178.dat": {
+    "id": "64178",
+    "description": "Technic Beam 11 x  5 with Open Center  5 x  3"
+  },
+  "11950.dat": {
+    "id": "11950",
+    "description": "Technic Steering Wheel Bearing with  2 Pegholes"
+  },
+  "65414.dat": {
+    "id": "65414",
+    "description": "Technic Differential Casing for 5 Internal Gears"
+  },
+  "69761.dat": {
+    "id": "69761",
+    "description": "Technic Gear 22 Tooth Bevel with Peghole"
+  },
+  "64392.dat": {
+    "id": "64392",
+    "description": "Technic Panel Fairing Smooth #17 (Wide Long)"
+  },
+  "3700.dat": {
+    "id": "3700",
+    "description": "Technic Brick  1 x  2 with Hole"
+  },
+  "3701.dat": {
+    "id": "3701",
+    "description": "Technic Brick  1 x  4 with Holes"
+  },
+  "14720.dat": {
+    "id": "14720",
+    "description": "Technic Beam  5 x  3 H-shaped"
+  },
+  "2850a.dat": {
+    "id": "2850a",
+    "description": "Technic Engine Cylinder Head with Side Slots"
+  },
+  "62520.dat": {
+    "id": "62520",
+    "description": "Technic Universal Joint 3L End"
+  },
+  "62519.dat": {
+    "id": "62519",
+    "description": "Technic Universal Joint 3L Centre"
+  },
+  "-headlightflex-left.ldr": {
+    "id": "32199",
+    "description": "Hose, Soft Axle 11L"
+  },
+  "-headlightflex-right.ldr": {
+    "id": "32199",
+    "description": "Hose, Soft Axle 11L"
+  },
+  "rubberbandround-1.ldr": {
+    "id": "x71",
+    "description": "Rubber Belt Small (Round Cross Section) - Approx. 2x2"
+  },
+  "shock-06_5l-soft-1_springmesh.ldr": {
+    "id": "731c05",
+    "description": "Technic, Shock Absorber 6.5L with Black Piston Rod - Normal Spring_springMesh"
+  },
+  "rubberbandround-2.ldr": {
+    "id": "x37",
+    "description": "Rubber Belt Medium (Round Cross Section) - Approx. 3x3"
+  }
+}
